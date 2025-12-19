@@ -1,4 +1,4 @@
-# BehaviouralAnalysis-ForestDormouse
+# Behavioural Analysis-Forest Dormouse
 
 This repository contains a **reproducible R workflow** for analyzing **locomotor behavior, posture, and substrate use** in the forest dormouse (*Dryomys nitedula*). 
 
